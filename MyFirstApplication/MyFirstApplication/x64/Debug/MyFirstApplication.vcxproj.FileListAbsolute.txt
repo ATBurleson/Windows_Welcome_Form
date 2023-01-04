@@ -1,0 +1,4 @@
+C:\Users\ATBurleson\Documents\Visual Studio 2022\Projects\Window GUI Forms\MyFirstApplication\MyFirstApplication\x64\Debug\MyFirstApplication.vcxproj.AssemblyReference.cache
+C:\Users\ATBurleson\Documents\Visual Studio 2022\Projects\Window GUI Forms\MyFirstApplication\MyFirstApplication\x64\Debug\MyFirstApplication.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ATBurleson\Documents\Visual Studio 2022\Projects\Window GUI Forms\MyFirstApplication\MyFirstApplication\x64\Debug\MyFirstApplication.MainForm.resources
+C:\Users\ATBurleson\Documents\Visual Studio 2022\Projects\Window GUI Forms\MyFirstApplication\MyFirstApplication\x64\Debug\MyFirstApplication.vcxproj.GenerateResource.cache
