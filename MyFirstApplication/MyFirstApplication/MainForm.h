@@ -211,6 +211,7 @@ namespace MyFirstApplication {
 
 		}
 #pragma endregion
+	//Button actions.
 	private: System::Void MainForm_Load(System::Object^ sender, System::EventArgs^ e) {
 	}
 	private: System::Void OK_button_Click(System::Object^ sender, System::EventArgs^ e) {
